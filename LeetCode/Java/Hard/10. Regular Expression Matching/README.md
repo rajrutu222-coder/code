@@ -8,8 +8,8 @@
 String, Dynamic Programming, Recursion
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 43.3 MB
 
 ---
 
